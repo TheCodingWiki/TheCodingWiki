@@ -1,0 +1,27 @@
+.header {
+    margin-top: 150px;
+}
+
+.headertext {
+    font-size: 90px;
+    color: white;
+    text-align: center;
+}
+
+.headerimg {
+    height: 415px;
+}
+
+.headerhr {
+    width: 1300px;
+    border-color: grey;
+    height: 1px;
+}
+
+.boxgrid {
+    margin-top: 75px;
+}
+
+html {
+    background-image: url("https://i.postimg.cc/ZqY2Ypyx/bluebg.png");
+  }
